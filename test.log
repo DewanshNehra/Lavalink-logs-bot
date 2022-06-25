@@ -1,0 +1,25 @@
+2022-06-24 12:30:02.967  INFO 11298 --- [main] lavalink.server.Launcher                 : Starting Launcher on server-working with PID 11298 (/home/ubuntu/lavalink/Lavalink.jar st>
+2022-06-24 12:30:02.976  INFO 11298 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to default profiles: default
+2022-06-24 12:30:03.374  WARN 11298 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module>
+2022-06-24 12:30:09.672  WARN 11298 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be us>
+2022-06-24 12:30:09.784  INFO 11298 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2022-06-24 12:30:09.860  INFO 11298 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 6484 ms
+2022-06-24 12:30:11.471  WARN 11298 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2022-06-24 12:30:13.565  INFO 11298 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2022-06-24 12:30:14.370  INFO 11298 --- [main] lavalink.server.config.KoeConfiguration  : OS: Linux, Arch: amd64
+2022-06-24 12:30:14.370  INFO 11298 --- [main] lavalink.server.config.KoeConfiguration  : Enabling JDA-NAS
+2022-06-24 12:30:14.376  INFO 11298 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2022-06-24 12:30:14.383  INFO 11298 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2022-06-24 12:30:15.774  INFO 11298 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-06-24 12:30:17.468  INFO 11298 --- [main] org.xnio                                 : XNIO version 3.3.8.Final
+2022-06-24 12:30:17.562  INFO 11298 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.3.8.Final
+2022-06-24 12:30:17.964  INFO 11298 --- [main] o.s.b.w.e.u.UndertowServletWebServer     : Undertow started on port(s) 2333 (http) with context path ''
+2022-06-24 12:30:17.977  INFO 11298 --- [main] lavalink.server.Launcher                 : Started Launcher in 20.405 seconds (JVM running for 23.145)
+2022-06-24 12:30:17.979  INFO 11298 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.co>
+2022-06-24 12:30:59.375  INFO 11298 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-24 12:30:59.376  INFO 11298 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-06-24 12:30:59.391  INFO 11298 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 15 ms
+2022-06-24 12:30:59.480  INFO 11298 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /34.229.15.98:45082
+2022-06-24 12:30:59.978  INFO 11298 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2022-06-24 12:33:36.031  INFO 11298 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"936307042107396167","volume":100}
+2022-06-24 12:33:36.369  INFO 11298 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:jaqeen"
