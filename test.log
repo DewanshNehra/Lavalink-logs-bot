@@ -1,9 +1,0 @@
-2022-06-24 10:29:37.563  WARN 3488 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
-2022-06-24 10:29:39.573  INFO 3488 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2022-06-24 10:29:40.479  INFO 3488 --- [main] lavalink.server.config.KoeConfiguration  : OS: Linux, Arch: amd64
-2022-06-24 10:29:40.480  INFO 3488 --- [main] lavalink.server.config.KoeConfiguration  : Enabling JDA-NAS
-2022-06-24 10:29:40.486  INFO 3488 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
-2022-06-24 10:29:40.560  INFO 3488 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
-2022-06-24 10:29:41.877  INFO 3488 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
-2022-06-24 10:29:53.877  INFO 3488 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
-2022-06-24 10:29:54.877  INFO 3488 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
